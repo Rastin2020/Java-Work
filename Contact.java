@@ -1,8 +1,3 @@
-package com.timbuchalka;
-
-/**
- * Created by dev on 28/08/15.
- */
 public class Contact {
     private String name;
     private String phoneNumber;
