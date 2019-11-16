@@ -1,10 +1,3 @@
-package com.timbuchalka;
-
-import java.util.ArrayList;
-
-/**
- * Created by dev on 28/08/15.
- */
 public class MobilePhone {
     private String myNumber;
     private ArrayList<Contact> myContacts;
